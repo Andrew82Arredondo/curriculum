@@ -1,3 +1,4 @@
+:x
 /**
  * Takes in 2 numbers, returns their sum
  * @param {number} a
@@ -6,7 +7,7 @@
  */
 
 const solution = (a, b) => {
-  return 0;
+  return a + b;
 };
 
 module.exports = {
